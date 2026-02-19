@@ -55,10 +55,10 @@ Sigue estos pasos en tu terminal para hacer funcionar el analizador:
 5. **Pruebas**
 
 Escribe en el archivo Entrada.txt lo que deseas probar por ejemplo:
-- 1.3 e -12 + 2.34 I
-- 1.12 e 10
-- 0.13 J
-- bhdvhwuiehdnc
+- 1.3 e -12 + 2.34 I.
+- 1.12 e 10.
+- 0.13 J.
+- bhdvhwuiehdnc.
 Donde el resultado es: 
 - 1.3 e -12 + 2.34 I == ACEPTA
 - 1.12 e 10 == NO ACEPTA
